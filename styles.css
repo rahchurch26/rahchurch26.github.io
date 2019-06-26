@@ -1,0 +1,10 @@
+body{
+  text-align:center;
+  background-color:green;
+  color:white;
+}
+img{
+  width:200px;
+  border:30px solid transparent;
+  border-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Xbox_Logo.svg/1021px-Xbox_Logo.svg.png) 100% round;
+}

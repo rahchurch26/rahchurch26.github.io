@@ -1,0 +1,11 @@
+body{
+  text-align:center;
+  background-image:url("https://res.cloudinary.com/teepublic/image/private/s--J7xqI04V--/t_Preview/b_rgb:c62b29,c_limit,f_jpg,h_630,q_90,w_630/v1471646983/production/designs/641847_1.jpg");
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size:cover;
+}
+h1{
+  color:#b30000;
+  font-size:70px;
+}
